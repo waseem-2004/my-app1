@@ -1,5 +1,5 @@
 import React from "react";
-import "../Styles/Staycard.css"; 
+import "../Styles/staycard.css"; 
 
 const StayCard = ({ image, type, name, price, rating, reviews }) => {
   return (
