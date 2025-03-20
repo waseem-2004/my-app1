@@ -1,6 +1,6 @@
 import React from "react";
 import "../Styles/navbar.css";
-import nassar from '../assets/asset/n.jpg';
+import nassar from '../assets/asset/ParisImage.png';
 
 const Navbar = () => {
   return (
