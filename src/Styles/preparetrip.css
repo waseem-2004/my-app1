@@ -1,0 +1,26 @@
+.prepare-trip {
+    text-align:left;
+    padding: 20px;
+    
+  }
+  .prepare-trip p {
+    text-align: left;
+    font-size: 18px;
+  }
+  
+  .prepare-title {
+    font-size: 16px;
+    color: #ccc;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  .options-container {
+    display:flex;
+    justify-content: space-between; 
+    gap: 170px; 
+    margin-top: 20px;
+    padding: 0 50px;
+    width: 1200px;
+    transform: translateX(-60px); 
+    
+}

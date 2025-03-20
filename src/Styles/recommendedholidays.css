@@ -1,0 +1,33 @@
+.recommended-section {
+    margin: 40px 0;
+  }
+  
+  .title-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .title-container h2 {
+    font-size: 35px;
+    font-weight: bold;
+    transform: translateX(-70px); 
+
+  }
+  
+  .title-container a  {
+    color: #1c7adf;
+    font-size: 22px;
+    text-decoration: none;
+    transform: translateX(-220px); 
+
+  }
+  
+  .holiday-list {
+    display: flex;
+    gap:30px; 
+    justify-content: space-between; 
+    flex-wrap: nowrap; 
+   
+  }

@@ -1,0 +1,78 @@
+.popular-destinations {
+    width: 100%;
+    padding: 40px 80px;
+    position: relative;
+  }
+  
+  .title-section {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    text-align: left;
+    align-items: flex-start; 
+    margin-left: -160px; 
+}
+
+  
+ 
+  .plan-text {
+    color: #1a42b0;
+    font-weight: bold;
+    font-size: 22px; 
+    text-transform: uppercase;
+    margin-bottom: 5px;
+
+  }
+  
+  
+  .main-title {
+    font-size: 35px;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+    margin-bottom: 7px;
+  }
+  
+ 
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 10;
+    background: white;
+    padding: 10px 20px;
+  }
+  
+  .view-all {
+    position: absolute;
+    right: -40px;
+    font-size: 16px;
+    font-weight: bold;
+    color:blueviolet;
+    cursor: pointer;
+    background: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    z-index: 100;
+    font-size:22px;
+    margin-top: 20px;
+    
+  }
+  
+  .image-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width:1500px;
+    transform: translateX(-150px); 
+    
+  }
+  
+  .destinations-image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 15px;
+  }
+  

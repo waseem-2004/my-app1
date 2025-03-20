@@ -1,0 +1,24 @@
+.trip-option {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .icon-container {
+    width: 80px;
+    height: 80px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .label {
+    font-size: 14px;
+    color: #777;
+    margin: 0;
+    
+  }
+  
