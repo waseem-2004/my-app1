@@ -1,5 +1,5 @@
 import React from "react";
-import "../Styles/popularDestinations.css";
+import "../Styles/populardestinations.css";
 import destinationsImage from "../assets/asset/Cards Container.png"; 
 
 const PopularDestinations = () => {
