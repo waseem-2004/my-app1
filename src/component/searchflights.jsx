@@ -1,5 +1,5 @@
 import React from "react";
-import "../Styles/searchFlights.css";
+import "../Styles/searchflights.css";
 import Banner from "../assets/asset/Banner.png"; 
 
 const SearchFlights = () => {
